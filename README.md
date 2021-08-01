@@ -6,7 +6,7 @@
 
 Esse projeto foi desenvolvido no contexto da disciplina “Programação de Sistemas Embarcados” ofertada para o curso de Engenharia Elétrica da UFMG. O objetivo desse projeto é desenvolver uma AN (Application Note) para o periférico de DAC (Digital Analog Converter) e um projeto exemplo que implemente o uso do DAC. A AN está disponível nos arquivos do repositório junto com os arquivos gerados pelo projeto. 
 
-#Informações:
+# Informações:
 
 UNIVERSIDADE FEDERAL DE MINAS GERAIS
 
@@ -32,10 +32,10 @@ O microcontrolador utilizado nessa aplicação é o STM32H743ZIT6U que está pre
 
 ![image](https://user-images.githubusercontent.com/60392063/127783297-c47d17a6-8c60-4f34-9532-e276d1ce88bc.png)
 
-#Exemplo
+# Exemplo
 
 O projeto exemplo consiste na configuração do periférico de DAC da NUCLEO-H743 como saída única, associado a um pino externo. 
 
-##Variáveis 
+## Variáveis 
 
-##Funções
+## Funções
