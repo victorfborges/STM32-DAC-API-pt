@@ -8,14 +8,22 @@ Esse projeto foi desenvolvido no contexto da disciplina “Programação de Sist
 
 #Informações:
 
-UNIVERSIDADE FEDERAL DE MINAS GERAIS 
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
 DEPARTAMENTO DE ENGENHARIA ELETRÔNICA 
+
 Programação de Sistemas Embarcados 
+
 Professor: Ricardo de Oliveira Duarte
+
 Autor: Victor Freitas Borges - victorfborges75@gmail.com
+
 Versão: 1.0
+
 Licença: GNU 3
+
 Data: 08/2021
+
 Application Note: AN01-1.0 - DAC (Digital Analog Converter) 
 
 # Hardware: 
